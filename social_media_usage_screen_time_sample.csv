@@ -1,0 +1,101 @@
+Respondent_ID,Age,Gender,Social_Media_Platform,Daily_Screen_Time_Hours,Usage_Purpose,Daily_Usage_Frequency,Sleep_Hours,Productivity_Level,Social_Media_Impact
+R001,24,Female,X,5.8,Education,1-5 times,6.9,High,Neutral
+R002,32,Female,Instagram,1.8,Business,11-20 times,7.9,Moderate,Neutral
+R003,28,Female,YouTube,6.9,Education,11-20 times,5.5,Low,Neutral
+R004,25,Male,Facebook,4.3,News,More than 20 times,7.4,Moderate,Negative
+R005,24,Male,TikTok,7.4,News,More than 20 times,4.9,Low,Negative
+R006,28,Male,Instagram,4.9,News,11-20 times,6.3,Low,Neutral
+R007,28,Female,YouTube,4.5,Communication,More than 20 times,6.0,Moderate,Negative
+R008,21,Male,YouTube,2.9,Entertainment,More than 20 times,7.6,Moderate,Neutral
+R009,25,Male,TikTok,3.8,Communication,11-20 times,7.8,Moderate,Neutral
+R010,20,Male,YouTube,6.0,News,6-10 times,6.3,High,Neutral
+R011,19,Female,YouTube,2.8,Entertainment,6-10 times,7.3,High,Neutral
+R012,29,Male,X,1.6,Communication,6-10 times,6.9,Moderate,Neutral
+R013,23,Female,YouTube,3.7,Entertainment,6-10 times,6.3,Moderate,Positive
+R014,19,Female,Instagram,6.7,Communication,6-10 times,4.9,Low,Neutral
+R015,18,Male,Instagram,8.4,News,More than 20 times,4.0,Moderate,Positive
+R016,29,Female,TikTok,4.0,News,More than 20 times,6.5,Moderate,Negative
+R017,29,Female,X,2.4,Entertainment,1-5 times,7.1,High,Positive
+R018,34,Male,X,4.6,News,6-10 times,8.3,Moderate,Negative
+R019,27,Female,TikTok,5.5,Communication,1-5 times,7.5,Moderate,Neutral
+R020,33,Female,TikTok,6.2,Entertainment,11-20 times,6.5,Moderate,Negative
+R021,32,Female,TikTok,9.0,Education,11-20 times,6.7,Low,Negative
+R022,32,Female,TikTok,5.6,Communication,More than 20 times,7.4,Moderate,Negative
+R023,29,Female,X,8.2,Entertainment,6-10 times,4.0,Low,Negative
+R024,20,Male,Facebook,4.4,Education,More than 20 times,7.5,Moderate,Neutral
+R025,22,Male,Facebook,5.4,Entertainment,More than 20 times,6.9,High,Neutral
+R026,24,Male,TikTok,4.1,Entertainment,1-5 times,6.5,Moderate,Neutral
+R027,26,Male,Facebook,4.0,Communication,More than 20 times,5.7,Moderate,Positive
+R028,24,Male,TikTok,4.7,Entertainment,11-20 times,7.0,Moderate,Neutral
+R029,35,Female,YouTube,4.7,Communication,11-20 times,4.9,Moderate,Neutral
+R030,21,Male,Instagram,4.1,Communication,11-20 times,6.7,Low,Neutral
+R031,31,Male,TikTok,4.2,Education,More than 20 times,6.2,Low,Neutral
+R032,35,Male,Instagram,7.2,Education,11-20 times,4.7,Moderate,Negative
+R033,26,Female,TikTok,9.0,News,More than 20 times,6.0,Moderate,Negative
+R034,19,Male,Instagram,4.3,Education,More than 20 times,6.7,Moderate,Negative
+R035,32,Female,TikTok,4.6,Education,11-20 times,6.7,Moderate,Negative
+R036,24,Male,Instagram,6.1,Entertainment,More than 20 times,6.8,Moderate,Negative
+R037,29,Male,X,10.9,Communication,11-20 times,4.4,Low,Negative
+R038,25,Male,TikTok,5.4,Communication,11-20 times,6.7,High,Negative
+R039,32,Male,YouTube,7.0,Entertainment,11-20 times,6.4,Moderate,Negative
+R040,20,Female,TikTok,8.0,Communication,1-5 times,5.9,Moderate,Negative
+R041,31,Female,TikTok,5.8,Communication,More than 20 times,6.4,Moderate,Positive
+R042,34,Female,Instagram,6.9,Education,11-20 times,7.2,Low,Negative
+R043,21,Male,Instagram,6.3,Business,11-20 times,7.0,High,Neutral
+R044,35,Male,YouTube,7.1,Communication,More than 20 times,5.6,Low,Positive
+R045,25,Male,Facebook,3.3,Entertainment,6-10 times,6.3,Moderate,Neutral
+R046,21,Male,TikTok,5.6,Entertainment,11-20 times,6.8,High,Negative
+R047,19,Female,Instagram,6.1,News,11-20 times,6.2,Moderate,Negative
+R048,23,Male,YouTube,6.0,News,More than 20 times,7.5,Moderate,Positive
+R049,27,Male,Facebook,7.2,Entertainment,11-20 times,6.5,Moderate,Negative
+R050,21,Male,X,6.0,Education,More than 20 times,6.7,High,Neutral
+R051,35,Male,TikTok,3.1,Entertainment,More than 20 times,7.1,High,Neutral
+R052,29,Female,TikTok,6.3,Entertainment,1-5 times,5.3,High,Negative
+R053,19,Female,YouTube,3.6,Entertainment,1-5 times,6.8,Low,Neutral
+R054,27,Male,YouTube,3.9,Entertainment,11-20 times,7.2,Low,Neutral
+R055,21,Female,X,4.4,Business,6-10 times,5.3,High,Negative
+R056,31,Male,TikTok,5.0,Education,6-10 times,7.4,High,Neutral
+R057,33,Female,Instagram,2.4,Communication,11-20 times,9.0,High,Positive
+R058,32,Male,Instagram,7.2,Education,6-10 times,4.1,Moderate,Negative
+R059,25,Male,X,3.1,News,11-20 times,6.0,Moderate,Positive
+R060,31,Male,Facebook,8.0,Business,11-20 times,5.6,Moderate,Negative
+R061,25,Female,TikTok,3.2,Entertainment,11-20 times,6.6,High,Positive
+R062,33,Female,Facebook,7.5,Communication,11-20 times,5.8,Moderate,Negative
+R063,30,Female,TikTok,5.1,Entertainment,11-20 times,6.4,Moderate,Neutral
+R064,35,Male,TikTok,2.1,Entertainment,6-10 times,6.6,High,Negative
+R065,32,Female,TikTok,3.3,Entertainment,11-20 times,8.1,Moderate,Neutral
+R066,30,Female,TikTok,7.6,Education,11-20 times,5.9,Moderate,Neutral
+R067,26,Male,YouTube,6.0,Communication,More than 20 times,5.7,Moderate,Neutral
+R068,32,Male,X,5.1,Entertainment,11-20 times,7.6,Moderate,Negative
+R069,30,Male,Facebook,1.2,Entertainment,More than 20 times,7.4,High,Neutral
+R070,18,Female,Facebook,7.7,Entertainment,11-20 times,4.5,Low,Neutral
+R071,24,Male,Instagram,8.6,Entertainment,6-10 times,5.3,Low,Negative
+R072,26,Female,TikTok,8.2,Communication,More than 20 times,5.6,Low,Negative
+R073,18,Male,TikTok,4.1,Entertainment,6-10 times,7.2,Moderate,Negative
+R074,29,Female,TikTok,5.9,Entertainment,6-10 times,6.7,Moderate,Neutral
+R075,25,Female,TikTok,6.1,Communication,1-5 times,6.5,Low,Neutral
+R076,28,Male,YouTube,2.5,Communication,11-20 times,7.7,High,Positive
+R077,34,Female,Facebook,5.5,Entertainment,11-20 times,5.8,High,Neutral
+R078,25,Female,Instagram,7.1,Entertainment,6-10 times,5.2,Low,Negative
+R079,20,Female,Instagram,6.6,Entertainment,More than 20 times,6.5,Moderate,Neutral
+R080,20,Male,TikTok,3.2,Business,6-10 times,7.3,High,Negative
+R081,18,Male,TikTok,3.6,Communication,6-10 times,7.6,High,Neutral
+R082,22,Female,TikTok,6.6,Communication,6-10 times,4.5,Moderate,Negative
+R083,27,Female,Instagram,6.3,News,1-5 times,5.6,Moderate,Negative
+R084,24,Male,Facebook,1.1,Entertainment,11-20 times,9.3,Moderate,Neutral
+R085,26,Male,Facebook,1.0,News,11-20 times,8.3,High,Neutral
+R086,24,Female,Instagram,5.1,Communication,11-20 times,6.7,High,Neutral
+R087,26,Male,Facebook,4.1,Entertainment,6-10 times,7.3,High,Positive
+R088,25,Female,Facebook,4.7,Communication,11-20 times,8.3,Moderate,Neutral
+R089,29,Female,TikTok,4.5,Education,1-5 times,8.2,Low,Neutral
+R090,19,Female,Facebook,7.0,Communication,More than 20 times,4.5,Low,Negative
+R091,18,Female,YouTube,5.4,Business,1-5 times,5.3,Moderate,Positive
+R092,33,Male,Facebook,5.7,Entertainment,11-20 times,4.9,Low,Positive
+R093,22,Female,Instagram,2.8,Education,More than 20 times,6.6,High,Positive
+R094,20,Female,TikTok,1.0,Communication,11-20 times,7.9,High,Positive
+R095,29,Male,Instagram,7.2,News,More than 20 times,5.9,Moderate,Negative
+R096,25,Male,TikTok,9.1,Communication,6-10 times,4.0,Moderate,Neutral
+R097,20,Female,Facebook,4.6,Entertainment,More than 20 times,5.1,Moderate,Neutral
+R098,18,Female,X,5.6,Entertainment,11-20 times,5.6,Moderate,Neutral
+R099,20,Male,YouTube,5.8,Entertainment,More than 20 times,6.9,Moderate,Neutral
+R100,22,Female,YouTube,8.2,Entertainment,1-5 times,6.2,Moderate,Negative
